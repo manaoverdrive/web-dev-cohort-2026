@@ -23,7 +23,8 @@ The focus is on clean structure, proper HTML tags, and a layout similar to the g
 2. Open `index.html` in any web browser
 
 ## Screenshots
-<img width="1898" height="913" alt="image" src="https://github.com/user-attachments/assets/750839cf-7427-4179-b9c3-53cb45f7ce4e" />
+<img width="1892" height="900" alt="image" src="https://github.com/user-attachments/assets/32c9f6e5-e8a5-4b92-a498-3ccda6da55ce" />
+
 
 
 ## Author
