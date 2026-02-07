@@ -2,9 +2,9 @@
 📘 Documentation Website – Mintlify Clone
 Web Dev Cohort 2026
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🚀 Project Overview
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 This project is a **desktop-first documentation-style website clone**
 inspired by the **Mintlify documentation platform**.
 
@@ -15,14 +15,14 @@ organization.
 
 🎯 This is a UI/UX and layout accuracy–focused assignment.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🌐 Live Demo
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 👉 https://mintlify-landing-shubbu.netlify.app/
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🧩 Sections Recreated
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ✅ Top Navigation Bar  
 - Logo  
 - Navigation links  
@@ -62,15 +62,15 @@ organization.
 - Multi-column links  
 - Company and legal information  
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🛠 Tech Stack
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🧱 HTML5  
 🎨 CSS3  
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 📐 Constraints Followed
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ✔ Only HTML & CSS used  
 ✔ No JavaScript  
 ✔ No TailwindCSS or frameworks  
@@ -80,18 +80,18 @@ organization.
 ✔ Layout, fonts, colors, and spacing matched as closely as possible  
 ✔ Images and icons inspired by the original website  
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🎨 Design Notes
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 - Fonts and color palette were chosen to closely resemble the original
   Mintlify documentation site
 - Emphasis was placed on **content readability**, **alignment**, and
   **clean documentation-style layout**
 - Sidebar and main content spacing were carefully matched
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 📂 Project Structure
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 mintlify landing page/
 │
 ├── index.html
@@ -101,9 +101,9 @@ mintlify landing page/
 │   ├── images/
 │   └── icons/
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🚢 Deployment
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 The website is deployed using **Netlify** via GitHub integration.
 
 Deployment configuration:
@@ -111,24 +111,23 @@ Deployment configuration:
 - Build command: none
 - Publish directory: `.`
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 📊 Evaluation Focus
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 - Structural accuracy vs reference site
 - Content layout and readability
 - Sidebar and main content alignment
 - Font, spacing, and color consistency
 - Overall fidelity to the original design
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 👨‍💻 Author
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 Shubbu  
 Web Dev Cohort 2026
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ⚠️ Disclaimer
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 This project was created **strictly for educational purposes**
 as part of an assignment.
 No commercial use intended.
