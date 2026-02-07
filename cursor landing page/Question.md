@@ -103,5 +103,4 @@ Web Dev Cohort 2026
 ## ⚠️ Disclaimer
 This project was created **strictly for educational purposes** as part of a cohort assignment.  
 No commercial use intended.
-```
 
