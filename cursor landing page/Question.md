@@ -1,111 +1,107 @@
-# Dev Tool Landing Page - Cursor  
+
+# 🚀 Cursor Dev Tool Landing Page — Clone  
+**Web Dev Cohort 2026**
+
+This project is a **desktop-first HTML & CSS clone** of the **Cursor developer tool landing page**, built as part of the **Web Dev Cohort 2026 CSS assignment**.
+
+The objective of this assignment is **visual and structural accuracy** — not creativity or interactivity.  
+The focus is on closely matching the original Cursor website’s **layout, typography, spacing, and visual hierarchy**.
+
+---
+
+## 🌐 Live Demo
+👉 https://cursor-landing-shubbu.netlify.app/
+
+---
+
+## 🧩 Sections Recreated
+
+- **Top Navigation Bar**
+  - Logo, nav links, primary CTA, dark background
+- **Hero Section**
+  - Headline, description, CTA, large product screenshot
+- **Trusted By / Company Logos**
+- **Feature Sections (3 blocks)**
+  - Two-column layout with alternating text/image
+- **Feature Cards Section**
+  - Grid-based layout
+- **Testimonials**
+  - Quote cards with name and role
+- **Use Cases / Stories**
+- **Changelog / Updates**
+- **Team / About Section**
+- **Final Call-To-Action**
+- **Footer**
+  - Multi-column links and company info
+
+---
+
+## 🛠 Tech Stack
+- **HTML5**
+- **CSS3**
+
+---
+
+## 📐 Constraints Followed
+- Only HTML & CSS used  
+- No JavaScript  
+- No TailwindCSS or frameworks  
+- No animations or fancy effects  
+- Desktop-only layout (no responsiveness)  
+- Fonts, colors, and spacing matched as closely as possible to the reference design  
+- Images and icons inspired by the original website  
+
+---
+
+## 🎨 Fonts & Styling
+- Fonts were chosen to closely resemble the original Cursor website  
+- Color palette and spacing were carefully matched  
+- Layout decisions prioritized clarity, alignment, and visual hierarchy  
+
+---
+
+## 📂 Project Structure
+```
+
+cursor landing page/
+├── index.html
+├── styles/
+│   └── style.css
+├── assets/
+│   ├── images/
+│   └── icons/
+
+```
+
+---
+
+## 🚢 Deployment
+The project is deployed on **Netlify** using GitHub integration.
+
+**Deployment settings:**
+- Base directory: `cursor landing page`
+- Build command: none
+- Publish directory: `.`
+
+---
+
+## 📊 Evaluation Focus
+- Structural similarity to the reference website  
+- Accuracy in layout, spacing, and alignment  
+- Font and color palette consistency  
+- Clean and semantic HTML  
+- Overall visual fidelity  
+
+---
+
+## 👨‍💻 Author
+**Shubbu**  
 Web Dev Cohort 2026
 
-## HTML & CSS
-
-### Timeline
-- **Start:** 1 Feb 2026, 8:00 pm  
-- **Due:** 7 Feb 2026, 12:30 pm  
-- **Eval Begins:** 7 Feb 2026, 1:00 pm  
-- **Eval Ends:** 8 Feb 2026, 11:59 pm  
-
 ---
 
-## Instructions
+## ⚠️ Disclaimer
+This project was created **strictly for educational purposes** as part of a cohort assignment.  
+No commercial use intended.
+```
 
-Recreate a desktop-first developer tool landing page inspired by the Cursor website.  
-The goal of this assignment is **visual and structural accuracy**, not creativity or interactivity.
-
-Focus on making your page look as close as possible to the original in terms of:
-
-- Page structure and section layout  
-- Typography and font usage  
-- Color palette and spacing  
-- Overall visual hierarchy  
-
-You are not required to add animations or interactions.
-
-<img src="https://raw.githubusercontent.com/chaicodehq/masterji-assets/refs/heads/main/css-assignment-01.png" />
-
----
-
-## Sections to Build
-
-1. **Top Navigation Bar**
-   - Logo
-   - Nav links
-   - Primary CTA
-   - Dark background
-
-2. **Hero Section**
-   - Main headline
-   - Description
-   - CTA
-   - Large product screenshot
-
-3. **Trusted By / Logos**
-   - Row of company logos  
-
-4. **Feature Sections (3 blocks)**
-   - Two-column layout (text + image)
-   - Alternate image/text positions  
-
-5. **Feature Cards Section**
-   - Section title
-   - Grid of 3–4 cards  
-
-6. **Testimonials**
-   - Quote cards with name and role  
-
-7. **Use Cases / Stories**
-   - Cards with image + short text  
-
-8. **Changelog / Updates**
-   - List of updates with date  
-
-9. **Team / About**
-   - Large image
-   - Short description
-   - CTA  
-
-10. **Final CTA**
-    - Big heading
-    - Single button  
-
-11. **Footer**
-    - Multi-column links
-    - Company info  
-
----
-
-## Constraints
-
-- Use only HTML and CSS  
-- No JavaScript  
-- No TailwindCSS  
-- No usage of AI  
-- No animations or fancy effects  
-- No responsiveness required (desktop-only)  
-- Try as much as possible to use images & icons similar to or taken from the original website where possible  
-- Try to match the fonts, colors, and layout closely to the original design  
-
----
-
-## Submission Instructions
-
-- Create a public GitHub repository containing the HTML and CSS code  
-- Add a README explaining:
-  - Which sections were recreated  
-  - Fonts and colors used  
-  - Include screenshots of your final output (recommended)  
-- GitHub repository must be public and, if possible, host the website to make evaluation easier  
-
----
-
-## Evaluation Parameters
-
-- Structural similarity to the original website  
-- Accuracy in layout, spacing, and alignment  
-- Font and color palette matching  
-- Clean and semantic HTML usage  
-- Overall visual closeness to the reference design  
